@@ -116,7 +116,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/baffinlite/proprietary/lib/hw/camera.java.so:system/lib/hw/camera.java.so \
     vendor/samsung/baffinlite/proprietary/lib/hw/gralloc.java.so:system/lib/hw/gralloc.java.so \
     vendor/samsung/baffinlite/proprietary/lib/hw/hwcomposer.java.so:system/lib/hw/hwcomposer.java.so \
-    vendor/samsung/baffinlite/proprietary/vendor/lib/hw/power.java.so:system/vendor/lib/hw/power.java.so \
     vendor/samsung/baffinlite/proprietary/lib/drm/libdrmwvmplugin.so:system/lib/drm/libdrmwvmplugin.so \
     vendor/samsung/baffinlite/proprietary/lib/drm/libomaplugin.so:system/lib/drm/libomaplugin.so \
     vendor/samsung/baffinlite/proprietary/lib/drm/libplayreadyplugin.so:system/lib/drm/libplayreadyplugin.so \
